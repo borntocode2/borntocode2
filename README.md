@@ -4,7 +4,7 @@
 I'm morty. I love building utilities aimed at increasing Developer productivity :raised_hands: 
 
 🔭 I’m a freshman in SKH UNIV-
-also participating in a club[GDG on campus](https://github.com/GDG-on-Campus-SKHU/24-25-Server-Assignment-01/tree/main)
+also participating in a club [GDG on campus](https://github.com/GDG-on-Campus-SKHU/24-25-Server-Assignment-01/tree/main)
 
 📫 How to reach me:
 
