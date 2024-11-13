@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm morty. I love building utilities aimed at increasing quality of life :raised_hands: 
+I'm Joshua.
 
 🔭 I’m a freshman in SKH UNIV-
 also participating in a club [GDG on campus](https://github.com/GDG-on-Campus-SKHU/24-25-Server-Assignment-01/tree/main)
