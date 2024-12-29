@@ -3,7 +3,7 @@
 
 I'm Joshua.
 
-🔭 I’m a freshman in SKH UNIV-
+🔭 I’m a sophomore in SKH UNIV-
 also participating in a club [GDG on campus](https://github.com/GDG-on-Campus-SKHU/)
 
 📫 How to reach me:
